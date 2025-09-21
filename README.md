@@ -1,0 +1,2 @@
+# WEIN-BRIDGE-OSCILLATOR-USING-OP--AMP-
+WEIN-BRIDGE OSCILLATOR USING OP- AMP schematic daigram and pcb layout in easyEDA
